@@ -1,0 +1,46 @@
+{
+  "name": "react-demo-map-scroll",
+  "version": "0.1.0",
+  "description": "A demo React.js application for Map Scroll with Markers.",
+  "keywords": [
+    "mornya",
+    "react",
+    "demo",
+    "map",
+    "scroll",
+    "front-end"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "author": "mornya <mornya78@gmail.com>",
+  "private": true,
+  "repository": "https://github.com/mornya/react-demo-map-scroll.git",
+  "bugs": "https://github.com/mornya/react-demo-map-scroll/issues",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
